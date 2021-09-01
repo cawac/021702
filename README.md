@@ -1,4 +1,4 @@
-# 021702
+# ППвИС 021702
 
 Репозиторий группы 021702 для лабораторных работ по ППвИС.
 
@@ -8,4 +8,4 @@
 - [Надежда]()
 - [Любовь](https://github.com/kalenav/Lyubov-)
 - [Alco Squad]()
-- [protectedAxolotl]()
+- [protectedAxolotl](https://github.com/Rephidock/protectedAxolotl)
