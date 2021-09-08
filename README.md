@@ -4,7 +4,7 @@
 
 **Сслыки на репозитории групп:**
 - [Froggers](https://github.com/Hopelite/Froggers)
-- [Вера]()
+- [Вера](https://github.com/cawac/Vera/tree/main/tag)
 - [Надежда]()
 - [Любовь](https://github.com/kalenav/Lyubov-)
 - [Alco Squad]()
