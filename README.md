@@ -5,7 +5,7 @@
 **Сслыки на репозитории групп:**
 - [Froggers](https://github.com/Hopelite/Froggers)
 - [Вера](https://github.com/cawac/Vera/tree/main/tag)
-- [Надежда]()
+- [Надежда](https://github.com/mitrandir-pl/Hope)
 - [Любовь](https://github.com/kalenav/Lyubov-)
 - [Alco Squad]()
 - [protectedAxolotl](https://github.com/Rephidock/protectedAxolotl)
